@@ -1,4 +1,4 @@
-# PyLUT
+# OPENLUT
 
 Here are two implementations: one uses Eigen to quickly read LUT files with an average speed of about 0.5 seconds; the other is a GPU-accelerated version based on PyTorch, achieving an average speed of around 0.1 seconds.
 
